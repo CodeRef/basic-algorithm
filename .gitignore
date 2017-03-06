@@ -217,3 +217,5 @@ FakesAssemblies/
 _Pvt_Extensions
 src/LBS/.vs
 src/LBS.Web/Uploads
+
+.vs/
