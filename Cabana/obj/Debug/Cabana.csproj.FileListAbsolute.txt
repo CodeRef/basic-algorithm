@@ -1,0 +1,6 @@
+C:\Excel-Bangkok\Algorithm-Test\Cabana\Cabana\bin\Debug\Cabana.exe.config
+C:\Excel-Bangkok\Algorithm-Test\Cabana\Cabana\bin\Debug\Cabana.exe
+C:\Excel-Bangkok\Algorithm-Test\Cabana\Cabana\bin\Debug\Cabana.pdb
+C:\Excel-Bangkok\Algorithm-Test\Cabana\Cabana\obj\Debug\Cabana.csprojResolveAssemblyReference.cache
+C:\Excel-Bangkok\Algorithm-Test\Cabana\Cabana\obj\Debug\Cabana.exe
+C:\Excel-Bangkok\Algorithm-Test\Cabana\Cabana\obj\Debug\Cabana.pdb
