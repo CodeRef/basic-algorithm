@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cabana", "Cabana\Cabana.csproj", "{2D5B9F9F-B8AD-4CFE-91CB-264AB12A5604}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAlgo", "BasicAlgo\BasicAlgo.csproj", "{2D5B9F9F-B8AD-4CFE-91CB-264AB12A5604}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

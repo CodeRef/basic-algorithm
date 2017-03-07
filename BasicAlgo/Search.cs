@@ -10,12 +10,16 @@ namespace Cabana
     {
         public Search()
         {
+            WriteLine();
+            WriteLine();
             int[] arr = { 11, 7, 22, 2, 33, 3, 17, 44, 4, 55, 5, 66, 6, 1, 77 };
             int? result = LinearSearch(55, arr);
             WriteLine("----------- Linear Search -----------------");
             WriteLine($@"[Linear Search] Index of 55 in [{string.Join(",", arr)}] is {result}");
 
-            const int searchInt = 77; // seach key
+
+            WriteLine("----------- Binary Search -----------------");
+            const int searchInt = 44; // seach key
             var position = -1;
             // createarray and output it
             int[] searchArray = { 11, 7, 22, 2, 33, 3, 17, 44, 4, 55, 5, 66, 6, 1, 77 };// BinaryArray(15);
@@ -25,9 +29,9 @@ namespace Cabana
 
             // return value of -1 indicates integer was not found
             if (position == -1)
-                Console.WriteLine("The integer {0} was not found.\n", searchInt);
+                WriteLine("The integer {0} was not found.\n", searchInt);
             else
-                Console.WriteLine("The integer {0} was found in position {1}.\n", searchInt, position);
+                WriteLine("The integer {0} was found in position {1}.\n", searchInt, position);
         }
 
         #region Linear Search
